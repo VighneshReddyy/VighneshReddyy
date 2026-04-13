@@ -4,8 +4,7 @@
 
 - 🔭 I’m currently working on **automating Mars Rover Manipal's Rover for the International Rover Challenge 2026 and European Rover Challenge 2026**
 
-- 🌱 I’m currently learning **Blockchain Technology**
-
+- 🌱 I’m currently learning **Generative AI**
 - 👯 I’m looking to collaborate on Machine Learning & Robotics Projects
 
 - 💬 Ask me about **ROS2 & OpenCV**
